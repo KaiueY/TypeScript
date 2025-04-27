@@ -3,7 +3,7 @@
  */
 
 // 练习1：为以下变量添加类型注解
-let name: string;
+let userName: string;
 let age: number;
 let isActive: boolean;
 
